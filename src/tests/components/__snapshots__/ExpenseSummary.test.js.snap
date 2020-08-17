@@ -2,18 +2,18 @@
 
 exports[`should match snapshot 1`] = `
 <div>
-  <p>
-    ExpenseSummary Component with total amount : $0.00
-                 and expenses count : undefined
-  </p>
+  <h2>
+    Viewing total amount : $0.00
+                 and with : undefined expenses
+  </h2>
 </div>
 `;
 
 exports[`should update prop 1`] = `
 <div>
-  <p>
-    ExpenseSummary Component with total amount : $0.00
-                 and expenses count : undefined
-  </p>
+  <h2>
+    Viewing total amount : $0.00
+                 and with : undefined expenses
+  </h2>
 </div>
 `;
